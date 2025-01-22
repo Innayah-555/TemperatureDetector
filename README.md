@@ -36,3 +36,8 @@ The LED is connected in series with a current-limiting resistor to prevent it fr
 The cathode (long leg) of the LED to ground
 
 The anode (long leg) of the LED to a digital output pin
+
+![IMG_6938](https://github.com/user-attachments/assets/1579566a-aa67-4403-aabf-8f53fbb312f7)
+
+![IMG_6940](https://github.com/user-attachments/assets/d45959d0-55c9-449b-8a5c-e52e85410bb1)
+
